@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-  margin: 0 2em;
+  margin: 4em 2em;
   
 }
 
@@ -178,4 +178,14 @@ input[type="radio"]:checked + label {
     margin-top: 4em;
   }
 
+}
+
+@media (max-width: 400px) {
+  .question-heading {
+    font-size: 0.85rem;
+  }
+
+  .question-container {
+    width: 300px;
+  }
 }
