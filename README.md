@@ -1,6 +1,6 @@
 # <p align="center">Quizzicle</p>
 
-## About Tenzies
+## About Quizzicle
 
 A quiz application where users can test their trivia skills! Five questions are fetched from 
 The Open Trivia Database (https://opentdb.com/api_config.php) for the user to select from. Once
