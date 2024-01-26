@@ -81,7 +81,7 @@ body {
 /* Question Styles */
 
 .all-questions {
-  min-width: 350px;
+  min-width: 300px;
   max-width: 750px;
   margin: 0 auto;
   margin-top: 2em;
